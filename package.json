@@ -12,6 +12,8 @@
     "@types/react-autosuggest": "^9.3.14",
     "@types/react-dom": "^16.9.8",
     "@types/react-tabs": "^2.3.2",
+    "ag-grid-community": "^23.2.1",
+    "ag-grid-react": "^23.2.1",
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-autosuggest": "^10.0.2",
